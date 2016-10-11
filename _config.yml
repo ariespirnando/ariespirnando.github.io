@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Achmad Aries Pirnando
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
-
+description: Freelancer Programer
 
 #
 # Flags below are optional
@@ -16,12 +15,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: aries.pirnando@gmail.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: ariespirnando
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: ariespirnando-855631126
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
