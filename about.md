@@ -8,9 +8,10 @@ HI !! Nama Saya adalah Achmad Aries Pirnando, Seorang lulusan S1 Teknik Informat
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* (2016) S1 Teknik Informatika dari STMIK TEKNOKRAT Lampung.
+* (2013) SMA PRIMA Kotabumi.
+* (2010) SMP PRIMA Kotabumi.
+* (2007) SDN 2 Rejosari.
 
 ## Roles
 
